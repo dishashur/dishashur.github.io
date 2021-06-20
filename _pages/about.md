@@ -6,7 +6,7 @@ description: <a href="https://engineering.purdue.edu/ECE">Purdue University</a>
 
 profile:
   align: left
-  image: img/dp2.png
+  image: dp2.png
   <!--address: >
     <p>555 your office number</p>
     <p>123 your address street</p>

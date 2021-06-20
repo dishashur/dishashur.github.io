@@ -48,8 +48,8 @@ a, table.table a {
 
 .profile {
   margin-left: 1rem;
-  margin-right: 3em;
-  width: 100%;
+  margin-right: 3rem;
+  width: 85%;
 
   .address {
     margin-bottom: 5px;
@@ -59,6 +59,7 @@ a, table.table a {
     p {
       display: inline-block;
       margin-left: 5px;
+      margin-right: 5px;
     }
   }
 }
@@ -74,6 +75,7 @@ a, table.table a {
 
 .post-description {
   margin-bottom: 2rem;
+  margin-left: 2rem;
   font-size: 0.875rem;
   a {
     color: inherit;
@@ -186,7 +188,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       i::before {
         color: var(--global-text-color);

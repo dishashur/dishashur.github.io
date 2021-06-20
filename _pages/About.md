@@ -5,7 +5,7 @@ permalink: /
 
 
 profile:
-  align: right
+  align: left
   image: dp2.png
   <!--address: >
     <p>555 your office number</p>

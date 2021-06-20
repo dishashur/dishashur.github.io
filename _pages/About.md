@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 
 
 profile:
@@ -11,7 +11,7 @@ profile:
     <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>-->
-description: <a href="https://engineering.purdue.edu/ECE">Purdue University</a>
+description: <p>Graduate Research Assistant</p><p><a href="https://engineering.purdue.edu/ECE">Purdue University</a></p>
 
 news: false  # includes a list of news items
 

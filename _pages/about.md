@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 ---
-I am pursuing my Masters-Thesis at Purdue University, where I am extremely fortunate to be advised by [Professor David Gleich](https://www.cs.purdue.edu/homes/dgleich/). My research interests are in the field of network analysis and machine learning with a current focus on representation learning for higher order connectivity. Among the applications, the problems arising in social networks and mechanism design interest me. I started with a background in Electronics and Telecommunication and have briefly worked on inverse microwave imaging for tumor detection.
+I am pursuing my Masters-Thesis at Purdue University, where I am extremely fortunate to be advised by [Professor David Gleich](https://www.cs.purdue.edu/homes/dgleich/). My research interests are in the field of network analysis and machine learning with a current focus on representation learning for higher order connectivity. Among the applications, the problems arising in social networks and mechanism design interest me. I started with a background in Electronics and Telecommunication engineering and have briefly worked on inverse microwave imaging for tumor detection.
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 
 profile:
-  align: left
+  align: right
   image: dp2.png
   <!--address: >
     <p>555 your office number</p>

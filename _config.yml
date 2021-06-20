@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Disha Shur# the website title (if blank, full name will be used instead)
 first_name: Disha
 #middle_name: R.
 last_name: Shur
@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 
-icon: /_pages/favicon_io/favicon.ico
+icon: [/_pages/favicon_io/favicon.ico]
  # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -75,7 +75,7 @@ scholar_userid: xpUsgP4AAAAJ&hl=en&authuser=1&oi=ao # your Google Scholar ID
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
 #disqus_shortname: al-folio # put your disqus shortname
@@ -174,7 +174,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            false  # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  false   # enables categorization of projects into
                                    # multiple categories

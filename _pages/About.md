@@ -7,12 +7,11 @@ permalink: /
 profile:
   align: left
   image: dp2.png
-  <!--address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>-->
-description: <p>Graduate Research Assistant</p><p><a href="https://engineering.purdue.edu/ECE">Purdue University</a></p>
-
+  address: >
+    <p>Graduate Research Assistant</p>
+    <p><a href="https://engineering.purdue.edu/ECE">Purdue University</a></p>
+    
+description: 
 news: false  # includes a list of news items
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

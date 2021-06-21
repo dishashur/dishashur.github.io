@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location based social network analysis
-description: Worked with <a href=https://sites.google.com/view/brainiith/home?authuser=0>BRAIN</a> group on social network analysis
+description: Worked with [BRAIN](https://sites.google.com/view/brainiith/home?authuser=0) group on social network analysis
 img: 
 importance: 1
 category: work

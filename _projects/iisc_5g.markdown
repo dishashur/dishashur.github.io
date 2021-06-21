@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: 5G Testbed Development
+description: Worked on development of in-lab5G testbed in the sub6GHz domain
+img: /assets/img/5g.png
 importance: 3
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
@@ -21,7 +20,7 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<div class="row">
+<!--<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
@@ -34,22 +33,20 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+</div>-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5g.png' | relative_url }}" alt="" title="Baseband communication in 5G"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Baseband communication channels in 5G
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+5G technology promises ultra reliable low latency communication (urLLC) among other things. This project was a part of the efforts by the [DoT, India](https://dot.gov.in/) to develop indigenous 5G testbed at [IISc](https://ece.iisc.ac.in/~5G-Testbed/). As a part of the sub6GHz group, I worked on development of the in-lab5G testbed by implementing PHY Layer protocols according to 3GPP Release 15 standard, using Open Air Interface stack by Eurecom, vector signal analyzer (VSA), vector signalgenerator (VSG) and USRPs X310and B210. Specfically, we established the interoperability of the 5G protocol stack with vector signal generator and analyzer. As a part of the V2X sub-group, we also analyzed the network architecture followed in industrial deployment of 4G and the proposed architecture, consisting of network virtualization of 5G in standards.
 
 
-<div class="row justify-content-sm-center">
+<!--<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
@@ -59,7 +56,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+</div>-->
 
 
 The code is simple.

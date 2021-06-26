@@ -2,7 +2,7 @@
 layout: page
 title: 5G Testbed Development
 description: On development of 5G testbed in the sub6GHz domain
-img: <!--/assets/img/5g.png-->
+<!--img: false /assets/img/5g.png-->
 importance: 3
 category: 
 redirect: false

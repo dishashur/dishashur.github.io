@@ -2,7 +2,7 @@
 layout: page
 title: Sensor location estimation
 description: Reconstruction of location-unaware samples
-img: <!--/assets/img/sensor.png-->
+<!--img:  false /assets/img/sensor.png-->
 importance: 2
 category: 
 redirect: false

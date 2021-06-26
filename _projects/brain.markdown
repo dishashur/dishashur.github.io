@@ -2,7 +2,7 @@
 layout: page
 title: Location based social network analysis
 description: On social network analysis with <a href="https://sites.google.com/view/brainiith/home?authuser=0">BRAIN group</a>
-img: <!--/assets/img/lbsn.png-->
+<!--img: false /assets/img/lbsn.png-->
 importance: 1
 category: work
 redirect: false

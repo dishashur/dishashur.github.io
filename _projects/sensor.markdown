@@ -2,23 +2,11 @@
 layout: page
 title: Sensor location estimation
 description: Reconstruction of location-unaware samples
-img:
+img: <!--/assets/img/sensor.png-->
 importance: 2
 category: 
+redirect: false
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <!--<div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -56,7 +44,7 @@ Under the guidance of [Prof. Chandra Murthy](https://ece.iisc.ac.in/~cmurthy/dok
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>-->
+</div>
 
 
 The code is simple.
@@ -74,3 +62,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
+-->

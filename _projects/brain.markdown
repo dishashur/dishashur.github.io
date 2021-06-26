@@ -2,7 +2,7 @@
 layout: page
 title: Location based social network analysis
 description: On social network analysis with <a href="https://sites.google.com/view/brainiith/home?authuser=0">BRAIN group</a>
-img: /assets/img/lbsn.png
+img: <!--/assets/img/lbsn.png-->
 importance: 1
 category: work
 redirect: false
@@ -50,7 +50,7 @@ Location based social networks offer an unique perspective to analyse social mov
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above: -->
+Here's the code for the last row of images above: 
 
 ```html
 <div class="row justify-content-sm-center">
@@ -62,3 +62,4 @@ Here's the code for the last row of images above: -->
     </div>
 </div>
 ```
+-->

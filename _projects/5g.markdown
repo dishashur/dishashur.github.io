@@ -1,25 +1,12 @@
 ---
 layout: page
 title: 5G Testbed Development
-description: Worked on development of in-lab5G testbed in the sub6GHz domain
-img: /assets/img/5g.png
+description: On development of 5G testbed in the sub6GHz domain
+img: <!--/assets/img/5g.png-->
 importance: 3
 category: 
+redirect: false
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <!--<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
@@ -33,7 +20,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>-->
+</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5g.png' | relative_url }}" alt="" title="Baseband communication in 5G"/>
@@ -41,7 +28,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Baseband communication channels in 5G
-</div>
+</div> -->
 
 5G technology promises ultra reliable low latency communication (urLLC) among other things. This project was a part of the efforts by the [DoT, India](https://dot.gov.in/) to develop indigenous 5G testbed at [IISc](https://ece.iisc.ac.in/~5G-Testbed/). As a part of the sub6GHz group, I worked on development of the in-lab5G testbed by implementing PHY Layer protocols according to 3GPP Release 15 standard, using Open Air Interface stack by Eurecom, vector signal analyzer (VSA), vector signalgenerator (VSG) and USRPs X310and B210. Specfically, we established the interoperability of the 5G protocol stack with vector signal generator and analyzer. As a part of the V2X sub-group, we also analyzed the network architecture followed in industrial deployment of 4G and the proposed architecture, consisting of network virtualization of 5G in standards.
 
@@ -56,7 +43,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>-->
+</div>
 
 
 The code is simple.
@@ -74,3 +61,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
+-->

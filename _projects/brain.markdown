@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Location based social network analysis
-description: On social network analysis with <a href="https://sites.google.com/view/brainiith/home?authuser=0">BRAIN group</a> 
+description: <h1>On social network analysis with <a href="https://sites.google.com/view/brainiith/home?authuser=0">BRAIN group</a></h1><p>Location based social networks offer an unique perspective to analyse social movements and uncover new dynamics between users and their attributes of movements. The results of such analyses are especially useful to recommendation services like <a href="https://foursquare.com/">FourSquare</a>. Recently, these problems have been addressed using the concept of regular hypergraphs where attributes related to each user constitute each hyperedge. A higher order structure, one example of which is a hypergraph, have been proven to be a better model than graphs for dealing with interaction of information from different domains. However, the current machine learning implementations are based on graphical structures which work on expansion of hyperedges. Hence, they are unable to take advantage of the information contained in the higher order of connectivity. This project was aimed at developing techniques for learning node embeddings that do not rely on the expansion of the hyperedges and are capable of capturing the dynamics in higher order connectivities.
+</p>
 img: /assets/img/lbsn.png
 importance: 1
 category: work
-url: /_projects/brain.markdown
+redirect: false
 ---
 
 <div class="row">

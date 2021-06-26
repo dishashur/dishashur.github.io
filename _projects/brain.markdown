@@ -5,7 +5,7 @@ description: On social network analysis with <a href="https://sites.google.com/v
 img: /assets/img/lbsn.png
 importance: 1
 category: work
-redirect: true
+redirect: false
 ---
 
 <!--<div class="row">

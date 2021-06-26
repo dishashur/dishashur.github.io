@@ -5,6 +5,7 @@ description: On social network analysis with <a href="https://sites.google.com/v
 img: /assets/img/lbsn.png
 importance: 1
 category: work
+redirect: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 
-icon: <img src="/_pages/favicon_io/favicon.ico">
+icon: <img src="https://raw.githubusercontent.com/dishashur/dishashur.github.io/source/_pages/favicon_io/favicon.ico">
  # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

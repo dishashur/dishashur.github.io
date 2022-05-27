@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-18
+date: 2022-02-17
 inline: true
 ---
 
-I defended my master's thesis. You can find the slides [here](/assets/pdf/defense.pdf) and the thesis [here](/assets/pdf/msthesis.pdf). Lemme know what you think!
+I will be joining Purdue CS as a PhD student in the Fall!
